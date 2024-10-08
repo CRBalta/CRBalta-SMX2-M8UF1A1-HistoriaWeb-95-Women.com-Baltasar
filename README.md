@@ -1,6 +1,6 @@
 # Women.com 
 
-|![Logo Women.com](https://github.com/CRBalta/CRBalta-SMX2-M8UF1A1-HistoriaWeb-95-Women.com-Baltasar/blob/main/women-com-logo-png-transparent.png)|
+|![Logo Women.com](https://github.com/CRBalta/CRBalta-SMX2-M8UF1A1-HistoriaWeb-95-Women.com-Baltasar/blob/main/women-com-logo-png-transparent.png) width="50%"|
 |----------------------|
 
 
