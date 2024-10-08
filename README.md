@@ -8,6 +8,9 @@ __Women.com__ fue uno de los primeros sitios web orientados específicamente a l
 
 2. Contenido Editorial 
 	*__Salud:__ Consejos médicos, bienestar físico y mental, cuidado personal.
+
 	*__Carreras profesionales:__ Orientación sobre desarrollo profesional, emprendimiento, y conciliación entre vida personal y laboral.
+
 	*__Relaciones y familia:__ Artículos sobre relaciones de pareja, crianza de hijos, y gestión de la vida familiar.
+
 	*__Estilo de vida:__ Temas de moda, belleza, decoración, y ocio.
