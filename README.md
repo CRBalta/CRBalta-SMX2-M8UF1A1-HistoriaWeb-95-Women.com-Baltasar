@@ -24,4 +24,8 @@ __Women.com__ fue uno de los primeros sitios web orientados específicamente a l
 
 
 
-![Ellen Pack](https://github.com/CRBalta/CRBalta-SMX2-M8UF1A1-HistoriaWeb-95-Women.com-Baltasar/blob/main/EllenPackHighResHeadshot.jpg) Ellen Pack|  ![ Marleen McDanield](https://github.com/CRBalta/CRBalta-SMX2-M8UF1A1-HistoriaWeb-95-Women.com-Baltasar/blob/main/MarleenMcDaniel.jpg) Marleen McDanield
+![Ellen Pack](https://github.com/CRBalta/CRBalta-SMX2-M8UF1A1-HistoriaWeb-95-Women.com-Baltasar/blob/main/EllenPackHighResHeadshot.jpg) 
+Ellen Pack  
+
+![ Marleen McDanield](https://github.com/CRBalta/CRBalta-SMX2-M8UF1A1-HistoriaWeb-95-Women.com-Baltasar/blob/main/MarleenMcDaniel.jpg) 
+Marleen McDanield
