@@ -18,14 +18,13 @@ __Women.com__ fue uno de los primeros sitios web orientados específicamente a l
 
 2. Fundadoras de Women.com
 
-	+	__Ellen Pack:__ Tenía experiencia en el sector tecnológico y quería crear un espacio en línea donde las mujeres pudieran encontrar contenido relevante y útil.
-
-	+	__Marleen McDaniel:__ Jugó un papel clave en la expansión y crecimiento del sitio, ayudando a cerrar acuerdos con marcas importantes y revistas.
+	+	__Ellen Pack:__ Tenía experiencia en el sector tecnológico y quería crear un espacio en línea donde las mujeres pudieran encontrar contenido relevante y útil. ![Ellen Pack](https://github.com/CRBalta/CRBalta-SMX2-M8UF1A1-HistoriaWeb-95-Women.com-Baltasar/blob/main/EllenPackHighResHeadshot.jpg)   
 
 
+	+	__Marleen McDaniel:__ Jugó un papel clave en la expansión y crecimiento del sitio, ayudando a cerrar acuerdos con marcas importantes y revistas. ![ Marleen McDanield](https://github.com/CRBalta/CRBalta-SMX2-M8UF1A1-HistoriaWeb-95-Women.com-Baltasar/blob/main/MarleenMcDaniel.jpg) 
 
-![Ellen Pack](https://github.com/CRBalta/CRBalta-SMX2-M8UF1A1-HistoriaWeb-95-Women.com-Baltasar/blob/main/EllenPackHighResHeadshot.jpg) 
-Ellen Pack  
 
-![ Marleen McDanield](https://github.com/CRBalta/CRBalta-SMX2-M8UF1A1-HistoriaWeb-95-Women.com-Baltasar/blob/main/MarleenMcDaniel.jpg) 
-Marleen McDanield
+
+
+
+
